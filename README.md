@@ -19,3 +19,6 @@ Currently, a very crude backend and the recovery script have been finished. Curr
 - GUI for the builder
 - Better backend with a login system
 - Support for multiple uploads (right now it only lets you have one data file.)
+
+# Disclaimer
+This program is made for educational and personal use only. It is not to be used to steal others passwords and I'm not responsible for any consequences should you get caught doing so.
