@@ -3,7 +3,6 @@ import sqlite3
 import win32crypt
 import sys
 import shutil
-import smtplib
 import json
 import requests
 
@@ -20,7 +19,6 @@ import sqlite3
 import win32crypt
 import sys
 import shutil
-import smtplib
 import json
 import requests
 
