@@ -1,0 +1,16 @@
+body {
+	background-color: #7096C4;
+}
+
+#table {
+	background-color: white;
+	padding-left: 5%;
+	border: 1px solid #efefef;
+	border-collapse: collapse;
+}
+td {
+  border: 1px solid #efefef;
+}
+#logo {
+	border: 1px solid #efefef;
+}
