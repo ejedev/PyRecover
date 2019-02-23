@@ -1,4 +1,4 @@
-# PyRecover [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+# PyRecover 0.1 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 A Python and PHP based system to recover and log passwords from Chrome.
 
 # Requirements
@@ -20,6 +20,8 @@ Currently, a very crude backend and the recovery script have been finished. Know
 - GUI for the builder
 - Better backend with a login system
 - Support for multiple uploads (right now it only lets you have one data file.)
+
+I should have the backend and multiple upload features done shortly. The GUI builder is intended for the 1.0 release.
 
 # Disclaimer
 This program was made for educational and personal use only. It should not be used to steal others passwords. I'm not responsible for any consequences should you get caught doing so.
