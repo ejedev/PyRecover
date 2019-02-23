@@ -8,7 +8,7 @@ A Python and PHP based system to recover and log passwords from Chrome.
 - PyInstaller
 
 # Current Status
-Currently, a very crude backend has been finished and the actual recovery script is nearly done.
+Currently, a very crude backend and the recovery script have been finished. Currently the known issues is the data file not deleting after it uploads itself to the webserver.
 
 # How to use this program
 - Clone the repo and upload the files in the "Site" folder to your website.
