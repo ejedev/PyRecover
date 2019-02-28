@@ -1,3 +1,10 @@
+<?php  session_start(); ?>
+<?php
+if(!isset($_SESSION['role']))
+       {
+           header("Location:login.php");
+       }
+?>
 <html>
 	<header>
 		<link rel="stylesheet" href="style.css">
@@ -5,6 +12,11 @@
 	<body>
 		<center>
 		<img id='logo' src='logo.png'>
+		<br>
+		<form action="logout.php" method="POST">
+		<input type="submit" value="Log out" style="width:20%;height:30;" />
+		<br>
+		</form>
 		<table id = 'table'>
 			<tr>
 				<th><strong>Site</strong></th>
