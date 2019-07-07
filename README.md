@@ -24,7 +24,6 @@ Currently, a very crude backend and the recovery script have been finished. Know
 - GUI for the builder
 - Support for multiple uploads (right now it only lets you have one data file.)
 
-I should have the backend and multiple upload features done shortly. The GUI builder is intended for the 1.0 release.
 
 # Disclaimer
 This program was made for educational and personal use only. It should not be used to steal others passwords. I'm not responsible for any consequences should you get caught doing so.
